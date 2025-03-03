@@ -32,7 +32,7 @@ This project demonstrates a complete machine learning pipeline for predicting lo
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/loan-default-risk-prediction.git
+git clone https://github.com/valentinohrynt/loan-default-risk-prediction.git
 cd loan-default-risk-prediction
 pip install -r requirements.txt
 ```
